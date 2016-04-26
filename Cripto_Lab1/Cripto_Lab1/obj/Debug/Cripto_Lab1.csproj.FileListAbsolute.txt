@@ -1,0 +1,12 @@
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\bin\Debug\Cripto_Lab1.exe.config
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\bin\Debug\Cripto_Lab1.exe
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\bin\Debug\Cripto_Lab1.pdb
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.Form1.resources
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.Properties.Resources.resources
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.csproj.GenerateResource.Cache
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.exe
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.pdb
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.ASCII_Converter.resources
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.Result.resources
+C:\Users\Daniel\Google Drive\Cripto_Lab1\Cripto_Lab1\obj\Debug\Cripto_Lab1.About.resources
